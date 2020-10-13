@@ -27,6 +27,7 @@ public class WriteAFile {
         {
             e.printStackTrace();
         }
+        System.out.println("hello");
     }
     
 }
